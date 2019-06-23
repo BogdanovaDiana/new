@@ -1,7 +1,7 @@
-Escalus, Prince of Verona. 
-Paris, a young Nobleman, kinsman to the Prince. 
-Montague,}Heads of two Houses at variance with each other. 
-Capulet, } 
+Escalus, Prince of Verona11111. 
+Paris, a young Nobleman, kinsman to the Prince11111. 
+Montague,}Heads of two Houses at variance with each other22222. 
+Capulet, 22222} 
 An Old Man, Uncle to Capulet. 
 Romeo, Son to Montague. 
 Mercutio, Kinsman to the Prince, and Friend to Romeo. 
